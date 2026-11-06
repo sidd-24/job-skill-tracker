@@ -1,0 +1,189 @@
+{
+  "postings": 788,
+  "levels": {
+    "professional": 379,
+    "senior / lead": 275,
+    "working student": 51,
+    "internship": 50,
+    "junior": 31,
+    "trainee / apprenticeship": 2
+  },
+  "roles": {
+    "other": 422,
+    "software engineering": 139,
+    "sales & marketing": 112,
+    "ML & AI": 41,
+    "data & analytics": 33,
+    "product & project management": 29,
+    "IT operations & support": 12
+  },
+  "languages": {
+    "German": 486,
+    "English": 302
+  },
+  "skills_all": {
+    "German (fluent)": 0.2843,
+    "English (fluent)": 0.1282,
+    "LLM / GenAI": 0.1079,
+    "Python": 0.099,
+    "Excel": 0.0939,
+    "MS Office": 0.0901,
+    "SQL": 0.0799,
+    "CI/CD": 0.0622,
+    "SAP": 0.0584,
+    "Agile / Scrum": 0.0558,
+    "AWS": 0.0558,
+    "TypeScript": 0.0546,
+    "Machine learning": 0.0533,
+    "JavaScript": 0.0431,
+    "Azure": 0.0431,
+    "React": 0.0406,
+    "Kubernetes": 0.0368,
+    "Linux": 0.0355,
+    "GCP": 0.033,
+    "Docker": 0.0317,
+    "Git": 0.0305,
+    "Java": 0.0279,
+    "Jira": 0.0254,
+    "C++": 0.0254,
+    "Terraform": 0.0241,
+    "REST APIs": 0.019,
+    "Angular": 0.0178,
+    "Node.js": 0.0178,
+    "ETL": 0.0165,
+    "Kafka": 0.0127,
+    "Power BI": 0.0114,
+    "Spark": 0.0114,
+    "C#": 0.0114,
+    "PyTorch": 0.0089,
+    "Computer vision": 0.0089,
+    "Confluence": 0.0089,
+    "Databricks": 0.0076,
+    "Tableau": 0.0076,
+    "PHP": 0.0063,
+    "scikit-learn": 0.0051,
+    "Snowflake": 0.0051,
+    "Golang": 0.0051,
+    "TensorFlow": 0.0051,
+    "Kotlin": 0.0051,
+    "Deep learning": 0.0025,
+    "Airflow": 0.0025,
+    "dbt": 0.0025,
+    "R": 0.0013,
+    "Scala": 0.0013
+  },
+  "skills_entry_level": {
+    "German (fluent)": 0.3209,
+    "Excel": 0.1418,
+    "LLM / GenAI": 0.1119,
+    "MS Office": 0.0746,
+    "English (fluent)": 0.0672,
+    "Python": 0.0597,
+    "JavaScript": 0.0448,
+    "Git": 0.0448,
+    "TypeScript": 0.0373,
+    "SQL": 0.0299,
+    "CI/CD": 0.0299,
+    "Machine learning": 0.0299,
+    "React": 0.0224,
+    "Agile / Scrum": 0.0224,
+    "Linux": 0.0224,
+    "C#": 0.0149,
+    "C++": 0.0149,
+    "REST APIs": 0.0149,
+    "Azure": 0.0149,
+    "AWS": 0.0149,
+    "Jira": 0.0149,
+    "Kubernetes": 0.0149,
+    "Angular": 0.0075,
+    "Java": 0.0075,
+    "Kafka": 0.0075,
+    "Deep learning": 0.0075,
+    "PyTorch": 0.0075,
+    "Computer vision": 0.0075,
+    "Docker": 0.0075,
+    "GCP": 0.0075,
+    "Terraform": 0.0075,
+    "PHP": 0.0075,
+    "Power BI": 0.0075,
+    "Spark": 0.0075
+  },
+  "by_role": [
+    {
+      "role": "software engineering",
+      "postings": 139,
+      "german_required": 0.17266187050359713,
+      "english_posting": 0.6618705035971223,
+      "top_skills": [
+        "Python (31%)",
+        "CI/CD (31%)",
+        "TypeScript (27%)",
+        "SQL (24%)",
+        "AWS (22%)"
+      ]
+    },
+    {
+      "role": "sales & marketing",
+      "postings": 112,
+      "german_required": 0.33035714285714285,
+      "english_posting": 0.21428571428571427,
+      "top_skills": [
+        "Excel (10%)",
+        "LLM / GenAI (7%)",
+        "AWS (4%)",
+        "MS Office (4%)",
+        "SAP (4%)"
+      ]
+    },
+    {
+      "role": "ML & AI",
+      "postings": 41,
+      "german_required": 0.1951219512195122,
+      "english_posting": 0.5609756097560976,
+      "top_skills": [
+        "LLM / GenAI (56%)",
+        "Python (32%)",
+        "Machine learning (29%)",
+        "PyTorch (17%)",
+        "SQL (12%)"
+      ]
+    },
+    {
+      "role": "data & analytics",
+      "postings": 33,
+      "german_required": 0.3939393939393939,
+      "english_posting": 0.5151515151515151,
+      "top_skills": [
+        "SQL (42%)",
+        "Python (33%)",
+        "Power BI (15%)",
+        "Excel (12%)",
+        "Spark (9%)"
+      ]
+    },
+    {
+      "role": "product & project management",
+      "postings": 29,
+      "german_required": 0.3793103448275862,
+      "english_posting": 0.3103448275862069,
+      "top_skills": [
+        "MS Office (17%)",
+        "Agile / Scrum (10%)",
+        "Machine learning (7%)",
+        "SAP (7%)",
+        "Jira (7%)"
+      ]
+    }
+  ],
+  "weekly": [
+    {
+      "week": "2026-11-02",
+      "postings": 788,
+      "LLM / GenAI": 0.10786802030456853,
+      "Python": 0.09898477157360407,
+      "Excel": 0.09390862944162437,
+      "MS Office": 0.0901015228426396,
+      "SQL": 0.0799492385786802
+    }
+  ]
+}

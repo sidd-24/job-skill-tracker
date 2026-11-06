@@ -1,0 +1,30 @@
+name: collect
+
+on:
+  schedule:
+    - cron: "15 5 * * *"      # every morning
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python collect.py
+      - run: python report.py
+      - name: Commit new postings and report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs results README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Daily collection: $(date +%Y-%m-%d)"
+            git push
+          fi
