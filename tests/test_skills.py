@@ -99,3 +99,11 @@ def test_readme_section_is_replaced(tmp_path):
     readme.write_text("# T\n<!-- RESULTS:START -->\nold\n<!-- RESULTS:END -->\nrest\n", encoding="utf-8")
     report.update_readme("new", readme)
     assert readme.read_text(encoding="utf-8") == "# T\n<!-- RESULTS:START -->\nnew\n<!-- RESULTS:END -->\nrest\n"
+
+
+def test_readme_section_is_filled_between_empty_markers(tmp_path):
+    readme = tmp_path / "README.md"
+    readme.write_text("# T\n<!-- RESULTS:START -->\n<!-- RESULTS:END -->\n", encoding="utf-8")
+    report.update_readme("new", readme)
+    report.update_readme("newer", readme)                       # repeated runs replace, never stack up
+    assert readme.read_text(encoding="utf-8") == "# T\n<!-- RESULTS:START -->\nnewer\n<!-- RESULTS:END -->\n"

@@ -8,6 +8,22 @@ Which skills do employers in Germany ask for, and does that change over time? A 
 ## Results
 
 <!-- RESULTS:START -->
+*788 postings in Germany, published 2026-11-03 to 2026-11-06. Updated automatically.*
+
+![Top skills](docs/top_skills.png)
+
+- **134 postings** are for working students, interns, thesis students or juniors.
+- **38% of postings are written in English**, and 13% of those still ask for fluent German (vs 38% of German-language postings).
+
+| Role family | Postings | Fluent German asked | Written in English | Most mentioned skills |
+|---|---:|---:|---:|---|
+| software engineering | 139 | 17% | 66% | Python (31%), CI/CD (31%), TypeScript (27%), SQL (24%), AWS (22%) |
+| sales & marketing | 112 | 33% | 21% | Excel (10%), LLM / GenAI (7%), AWS (4%), MS Office (4%), SAP (4%) |
+| ML & AI | 41 | 20% | 56% | LLM / GenAI (56%), Python (32%), Machine learning (29%), PyTorch (17%), SQL (12%) |
+| data & analytics | 33 | 39% | 52% | SQL (42%), Python (33%), Power BI (15%), Excel (12%), Spark (9%) |
+| product & project management | 29 | 38% | 31% | MS Office (17%), Agile / Scrum (10%), Machine learning (7%), SAP (7%), Jira (7%) |
+
+Role families with fewer than 25 postings are left out of the table.
 <!-- RESULTS:END -->
 
 ## How it works

@@ -109,7 +109,8 @@ def markdown(postings: pd.DataFrame, roles: pd.DataFrame, has_trend: bool) -> st
 
 def update_readme(section: str, path="README.md"):
     readme = Path(path).read_text(encoding="utf-8")
-    updated = re.sub(r"(<!-- RESULTS:START -->\n).*?(\n<!-- RESULTS:END -->)", lambda m: m.group(1) + section + m.group(2),
+    # also matches an empty pair of markers, as in a fresh README
+    updated = re.sub(r"(<!-- RESULTS:START -->).*?(<!-- RESULTS:END -->)", lambda m: f"{m.group(1)}\n{section}\n{m.group(2)}",
                      readme, flags=re.DOTALL)
     Path(path).write_text(updated, encoding="utf-8")
 
