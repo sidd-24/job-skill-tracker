@@ -8,20 +8,20 @@ Which skills do employers in Germany ask for, and does that change over time? A 
 ## Results
 
 <!-- RESULTS:START -->
-*788 postings in Germany, published 2026-11-03 to 2026-11-06. Updated automatically.*
+*1,031 postings in Germany, published 2026-11-03 to 2026-11-08. Updated automatically.*
 
 ![Top skills](docs/top_skills.png)
 
-- **134 postings** are for working students, interns, thesis students or juniors.
-- **38% of postings are written in English**, and 13% of those still ask for fluent German (vs 38% of German-language postings).
+- **158 postings** are for working students, interns, thesis students or juniors.
+- **42% of postings are written in English**, and 14% of those still ask for fluent German (vs 40% of German-language postings).
 
 | Role family | Postings | Fluent German asked | Written in English | Most mentioned skills |
 |---|---:|---:|---:|---|
-| software engineering | 139 | 17% | 66% | Python (31%), CI/CD (31%), TypeScript (27%), SQL (24%), AWS (22%) |
-| sales & marketing | 112 | 33% | 21% | Excel (10%), LLM / GenAI (7%), AWS (4%), MS Office (4%), SAP (4%) |
-| ML & AI | 41 | 20% | 56% | LLM / GenAI (56%), Python (32%), Machine learning (29%), PyTorch (17%), SQL (12%) |
-| data & analytics | 33 | 39% | 52% | SQL (42%), Python (33%), Power BI (15%), Excel (12%), Spark (9%) |
-| product & project management | 29 | 38% | 31% | MS Office (17%), Agile / Scrum (10%), Machine learning (7%), SAP (7%), Jira (7%) |
+| software engineering | 185 | 17% | 71% | Python (29%), CI/CD (26%), TypeScript (23%), SQL (22%), LLM / GenAI (18%) |
+| sales & marketing | 139 | 34% | 29% | Excel (9%), LLM / GenAI (7%), SAP (5%), AWS (4%), MS Office (4%) |
+| ML & AI | 56 | 16% | 57% | LLM / GenAI (54%), Python (38%), Machine learning (29%), PyTorch (14%), SQL (12%) |
+| data & analytics | 48 | 40% | 46% | SQL (38%), Python (31%), SAP (19%), Snowflake (15%), Power BI (12%) |
+| product & project management | 37 | 32% | 43% | MS Office (16%), Excel (8%), Agile / Scrum (8%), Jira (8%), Machine learning (5%) |
 
 Role families with fewer than 25 postings are left out of the table.
 <!-- RESULTS:END -->
