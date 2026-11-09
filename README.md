@@ -8,20 +8,20 @@ Which skills do employers in Germany ask for, and does that change over time? A 
 ## Results
 
 <!-- RESULTS:START -->
-*1,031 postings in Germany, published 2026-11-03 to 2026-11-08. Updated automatically.*
+*1,203 postings in Germany, published 2026-11-03 to 2026-11-09. Updated automatically.*
 
 ![Top skills](docs/top_skills.png)
 
-- **158 postings** are for working students, interns, thesis students or juniors.
-- **42% of postings are written in English**, and 14% of those still ask for fluent German (vs 40% of German-language postings).
+- **190 postings** are for working students, interns, thesis students or juniors.
+- **41% of postings are written in English**, and 15% of those still ask for fluent German (vs 42% of German-language postings).
 
 | Role family | Postings | Fluent German asked | Written in English | Most mentioned skills |
 |---|---:|---:|---:|---|
-| software engineering | 185 | 17% | 71% | Python (29%), CI/CD (26%), TypeScript (23%), SQL (22%), LLM / GenAI (18%) |
-| sales & marketing | 139 | 34% | 29% | Excel (9%), LLM / GenAI (7%), SAP (5%), AWS (4%), MS Office (4%) |
-| ML & AI | 56 | 16% | 57% | LLM / GenAI (54%), Python (38%), Machine learning (29%), PyTorch (14%), SQL (12%) |
-| data & analytics | 48 | 40% | 46% | SQL (38%), Python (31%), SAP (19%), Snowflake (15%), Power BI (12%) |
-| product & project management | 37 | 32% | 43% | MS Office (16%), Excel (8%), Agile / Scrum (8%), Jira (8%), Machine learning (5%) |
+| software engineering | 212 | 18% | 69% | Python (30%), CI/CD (29%), SQL (23%), TypeScript (23%), AWS (18%) |
+| sales & marketing | 161 | 36% | 29% | Excel (11%), LLM / GenAI (7%), MS Office (7%), SAP (4%), AWS (3%) |
+| ML & AI | 68 | 16% | 62% | LLM / GenAI (54%), Python (37%), Machine learning (28%), PyTorch (15%), Azure (10%) |
+| data & analytics | 62 | 39% | 40% | SQL (35%), Python (31%), SAP (16%), Power BI (13%), Snowflake (11%) |
+| product & project management | 46 | 39% | 39% | MS Office (15%), Jira (15%), Agile / Scrum (13%), Confluence (9%), Excel (7%) |
 
 Role families with fewer than 25 postings are left out of the table.
 <!-- RESULTS:END -->
