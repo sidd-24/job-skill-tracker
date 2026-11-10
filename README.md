@@ -8,20 +8,20 @@ Which skills do employers in Germany ask for, and does that change over time? A 
 ## Results
 
 <!-- RESULTS:START -->
-*1,203 postings in Germany, published 2026-11-03 to 2026-11-09. Updated automatically.*
+*1,370 postings in Germany, published 2026-11-03 to 2026-11-10. Updated automatically.*
 
 ![Top skills](docs/top_skills.png)
 
-- **190 postings** are for working students, interns, thesis students or juniors.
-- **41% of postings are written in English**, and 15% of those still ask for fluent German (vs 42% of German-language postings).
+- **212 postings** are for working students, interns, thesis students or juniors.
+- **41% of postings are written in English**, and 14% of those still ask for fluent German (vs 42% of German-language postings).
 
 | Role family | Postings | Fluent German asked | Written in English | Most mentioned skills |
 |---|---:|---:|---:|---|
-| software engineering | 212 | 18% | 69% | Python (30%), CI/CD (29%), SQL (23%), TypeScript (23%), AWS (18%) |
-| sales & marketing | 161 | 36% | 29% | Excel (11%), LLM / GenAI (7%), MS Office (7%), SAP (4%), AWS (3%) |
-| ML & AI | 68 | 16% | 62% | LLM / GenAI (54%), Python (37%), Machine learning (28%), PyTorch (15%), Azure (10%) |
-| data & analytics | 62 | 39% | 40% | SQL (35%), Python (31%), SAP (16%), Power BI (13%), Snowflake (11%) |
-| product & project management | 46 | 39% | 39% | MS Office (15%), Jira (15%), Agile / Scrum (13%), Confluence (9%), Excel (7%) |
+| software engineering | 255 | 18% | 68% | Python (33%), CI/CD (28%), TypeScript (22%), SQL (21%), Linux (17%) |
+| sales & marketing | 191 | 36% | 28% | Excel (11%), MS Office (7%), LLM / GenAI (6%), SAP (5%), AWS (3%) |
+| ML & AI | 78 | 15% | 65% | LLM / GenAI (56%), Python (40%), Machine learning (31%), PyTorch (15%), TypeScript (14%) |
+| data & analytics | 69 | 38% | 42% | SQL (38%), Python (32%), SAP (14%), Power BI (13%), Snowflake (13%) |
+| product & project management | 47 | 38% | 40% | MS Office (15%), Jira (15%), Agile / Scrum (13%), Confluence (9%), Machine learning (6%) |
 
 Role families with fewer than 25 postings are left out of the table.
 <!-- RESULTS:END -->
