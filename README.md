@@ -8,20 +8,21 @@ Which skills do employers in Germany ask for, and does that change over time? A 
 ## Results
 
 <!-- RESULTS:START -->
-*1,370 postings in Germany, published 2026-11-03 to 2026-11-10. Updated automatically.*
+*1,765 postings in Germany, published 2026-11-03 to 2026-11-11. Updated automatically.*
 
 ![Top skills](docs/top_skills.png)
 
-- **212 postings** are for working students, interns, thesis students or juniors.
-- **41% of postings are written in English**, and 14% of those still ask for fluent German (vs 42% of German-language postings).
+- **247 postings** are for working students, interns, thesis students or juniors.
+- **42% of postings are written in English**, and 14% of those still ask for fluent German (vs 43% of German-language postings).
 
 | Role family | Postings | Fluent German asked | Written in English | Most mentioned skills |
 |---|---:|---:|---:|---|
-| software engineering | 255 | 18% | 68% | Python (33%), CI/CD (28%), TypeScript (22%), SQL (21%), Linux (17%) |
-| sales & marketing | 191 | 36% | 28% | Excel (11%), MS Office (7%), LLM / GenAI (6%), SAP (5%), AWS (3%) |
-| ML & AI | 78 | 15% | 65% | LLM / GenAI (56%), Python (40%), Machine learning (31%), PyTorch (15%), TypeScript (14%) |
-| data & analytics | 69 | 38% | 42% | SQL (38%), Python (32%), SAP (14%), Power BI (13%), Snowflake (13%) |
-| product & project management | 47 | 38% | 40% | MS Office (15%), Jira (15%), Agile / Scrum (13%), Confluence (9%), Machine learning (6%) |
+| software engineering | 338 | 22% | 64% | Python (30%), CI/CD (25%), TypeScript (22%), SQL (20%), LLM / GenAI (19%) |
+| sales & marketing | 238 | 38% | 31% | Excel (9%), MS Office (7%), LLM / GenAI (5%), SAP (5%), AWS (2%) |
+| ML & AI | 110 | 16% | 68% | LLM / GenAI (54%), Python (44%), Machine learning (34%), PyTorch (17%), SQL (15%) |
+| data & analytics | 81 | 35% | 46% | SQL (36%), Python (27%), Excel (15%), Snowflake (14%), SAP (14%) |
+| product & project management | 69 | 36% | 42% | MS Office (13%), Jira (13%), Excel (9%), Agile / Scrum (9%), SAP (7%) |
+| IT operations & support | 27 | 22% | 11% | MS Office (41%), Linux (22%), Azure (15%), Jira (15%), Confluence (7%) |
 
 Role families with fewer than 25 postings are left out of the table.
 <!-- RESULTS:END -->
