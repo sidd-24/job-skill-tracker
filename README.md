@@ -8,20 +8,20 @@ Which skills do employers in Germany ask for, and does that change over time? A 
 ## Results
 
 <!-- RESULTS:START -->
-*4,431 postings in Germany, published 2026-11-03 to 2026-11-21. Updated automatically.*
+*4,533 postings in Germany, published 2026-11-03 to 2026-11-22. Updated automatically.*
 
 ![Top skills](docs/top_skills.png)
 
-- **739 postings** are for working students, interns, thesis students or juniors.
+- **754 postings** are for working students, interns, thesis students or juniors.
 - **42% of postings are written in English**, and 13% of those still ask for fluent German (vs 43% of German-language postings).
 
 | Role family | Postings | Fluent German asked | Written in English | Most mentioned skills |
 |---|---:|---:|---:|---|
-| software engineering | 768 | 19% | 68% | Python (33%), CI/CD (23%), TypeScript (21%), SQL (20%), Linux (16%) |
-| sales & marketing | 604 | 41% | 25% | MS Office (9%), Excel (8%), LLM / GenAI (4%), SAP (3%), Agile / Scrum (1%) |
-| ML & AI | 316 | 19% | 62% | LLM / GenAI (46%), Python (36%), Machine learning (29%), SQL (18%), PyTorch (14%) |
-| data & analytics | 195 | 28% | 48% | SQL (41%), Python (34%), Excel (19%), ETL (15%), Snowflake (13%) |
-| product & project management | 191 | 37% | 38% | MS Office (16%), Jira (11%), Excel (9%), Agile / Scrum (8%), Confluence (7%) |
+| software engineering | 796 | 19% | 69% | Python (33%), CI/CD (23%), TypeScript (21%), SQL (20%), Linux (16%) |
+| sales & marketing | 616 | 41% | 26% | MS Office (9%), Excel (8%), LLM / GenAI (4%), SAP (3%), Agile / Scrum (1%) |
+| ML & AI | 327 | 19% | 62% | LLM / GenAI (46%), Python (37%), Machine learning (30%), SQL (19%), PyTorch (14%) |
+| data & analytics | 204 | 27% | 49% | SQL (41%), Python (36%), Excel (18%), ETL (17%), Machine learning (14%) |
+| product & project management | 193 | 37% | 38% | MS Office (16%), Jira (11%), Excel (9%), Agile / Scrum (8%), Confluence (7%) |
 | IT operations & support | 60 | 28% | 20% | MS Office (48%), Linux (28%), Azure (13%), Jira (10%), Python (8%) |
 
 Role families with fewer than 25 postings are left out of the table.
