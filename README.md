@@ -8,21 +8,21 @@ Which skills do employers in Germany ask for, and does that change over time? A 
 ## Results
 
 <!-- RESULTS:START -->
-*5,580 postings in Germany, published 2026-11-03 to 2026-11-25. Updated automatically.*
+*5,896 postings in Germany, published 2026-11-03 to 2026-11-26. Updated automatically.*
 
 ![Top skills](docs/top_skills.png)
 
-- **929 postings** are for working students, interns, thesis students or juniors.
+- **976 postings** are for working students, interns, thesis students or juniors.
 - **40% of postings are written in English**, and 14% of those still ask for fluent German (vs 43% of German-language postings).
 
 | Role family | Postings | Fluent German asked | Written in English | Most mentioned skills |
 |---|---:|---:|---:|---|
-| software engineering | 959 | 21% | 66% | Python (33%), CI/CD (24%), TypeScript (21%), SQL (19%), React (17%) |
-| sales & marketing | 738 | 41% | 26% | MS Office (10%), Excel (10%), LLM / GenAI (4%), SAP (2%), Agile / Scrum (2%) |
-| ML & AI | 408 | 20% | 58% | LLM / GenAI (45%), Python (38%), Machine learning (29%), SQL (19%), TypeScript (13%) |
-| product & project management | 267 | 37% | 32% | MS Office (15%), Jira (10%), Agile / Scrum (9%), Excel (9%), SAP (6%) |
-| data & analytics | 249 | 29% | 46% | SQL (42%), Python (37%), Excel (17%), ETL (15%), Machine learning (14%) |
-| IT operations & support | 83 | 28% | 14% | MS Office (43%), Linux (28%), Azure (17%), Jira (8%), SQL (7%) |
+| software engineering | 1012 | 21% | 66% | Python (33%), CI/CD (24%), TypeScript (22%), SQL (20%), Linux (17%) |
+| sales & marketing | 784 | 41% | 27% | MS Office (11%), Excel (9%), LLM / GenAI (5%), SAP (2%), Agile / Scrum (2%) |
+| ML & AI | 434 | 21% | 57% | LLM / GenAI (46%), Python (38%), Machine learning (29%), SQL (19%), TypeScript (14%) |
+| product & project management | 278 | 37% | 32% | MS Office (15%), Jira (10%), Agile / Scrum (9%), Excel (8%), SAP (6%) |
+| data & analytics | 264 | 28% | 47% | SQL (43%), Python (40%), Excel (17%), ETL (16%), Machine learning (15%) |
+| IT operations & support | 85 | 27% | 14% | MS Office (44%), Linux (27%), Azure (16%), Jira (8%), SQL (8%) |
 
 Role families with fewer than 25 postings are left out of the table.
 
